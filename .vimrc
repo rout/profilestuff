@@ -1,12 +1,3 @@
-" vimrc of Thomas Witt <http://github.com/thomaswitt>
-"
-" You should have the following plugins
-" from http://www.vim.org/scripts/
-" BufOnly, FindFile, grep, miniBufExpl, rails, repeat,
-" supertab, surround, tcomment
-"
-" You may also want the colorscheme vividchalk
-
 set autoindent          " Always set autoindenting on
 set autoread            " Re-read files that changed on disk
 set background=light    " Switch this to dark for dark terminals
