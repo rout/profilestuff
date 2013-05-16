@@ -1,0 +1,5 @@
+[user]
+	name = rout
+	email = robert.utzig@gmail.com
+[core]
+	editor = /usr/bin/subl -w
